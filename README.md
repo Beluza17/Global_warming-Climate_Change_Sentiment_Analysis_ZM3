@@ -28,7 +28,7 @@ Relevant links to make life a little easier
 
 **GitHub Repositories**
 
-- [Notebook](https://github.com/ProfHercules/Regression_T7_DSFT)
+- [Notebook](https://github.com/Beluza17/Global_warming-Climate_Change_Sentiment_Analysis_ZM3)
 - [Flask API](https://github.com/ThobekaniM/classification-predict-streamlit-template)
 
 **Others**
